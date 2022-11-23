@@ -9,4 +9,4 @@ You will need to import the information from both `*.txt` files into your databa
 
 The zip file `us_counties_2010.zip` is actually a Shapefile which contains the county polygons of all counties in the United States. You will need to unzip and then import that information into your database to answer the extra credit problem.
 
-Due: April 15, 2022
+Due: Dec 9, 2022

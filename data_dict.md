@@ -27,7 +27,7 @@ The `cities1000.txt` file is tab delimited and has the following columns:
 
 
 ## country_info
-The `county_info.txt` file is also tab delimited and has more detailed information about each country
+The `country_info.txt` file is also tab delimited and has more detailed information about each country
 | Column Name      | Description                                                       |
 |------------------|-------------------------------------------------------------------|
 | iso              | A country's two letter ISO-3166 code                              |

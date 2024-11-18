@@ -1,5 +1,6 @@
+CREATE SCHEMA IF NOT EXISTS hw10;
 
-CREATE TABLE cities (
+CREATE TABLE hw10.cities (
   geonameid varchar(20),
   name varchar(200),
   ascii_name varchar(200),
@@ -18,11 +19,11 @@ CREATE TABLE cities (
   elevation integer,
   dem text,
   timezone varchar(40),
-  mod_date date,
-)
+  mod_date date
+);
 
 
-CREATE TABLE country_info (
+CREATE TABLE hw10.country_info (
   iso char(2),
   iso3 char(3),
   iso_num char(3),

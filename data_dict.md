@@ -1,7 +1,7 @@
 # Data Dictionary for Cities Spreadsheets
 
 ## cities
-The `cities.csv` file is comma delimited and has the following columns:
+The `cities.csv` file is comma-delimited and has the following columns:
 
 | Column Name       | Description                                                                                                                                                             |
 |-------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -31,14 +31,14 @@ The `county_info.csv` file is also comma delimited and has more detailed informa
 | Column Name      | Description                                                       |
 |------------------|-------------------------------------------------------------------|
 | iso              | A country's two letter ISO-3166 code                              |
-| iso3             | A country's three letter iso code                                 |
+| iso3             | A country's three-letter iso code                                 |
 | iso_num          | A country's numeric iso code                                      |
 | fips             | An alternative two letter identifying code                        |
 | name             | The name of the country                                           |
-| capital          | The capital of teh country                                        |
+| capital          | The capital of the country                                        |
 | area_sq_km       | The area of the country in square km                              |
 | population       | The total population of the country                               |
-| continent        | Two letter code indicating continent                              |
+| continent        | Two-letter code indicating continent                              |
 | tld              | Country domain name suffix                                        |
 | curr_code        | Currency code of country                                          |
 | curr_name        | Name of country currency                                          |
